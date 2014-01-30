@@ -1,0 +1,4 @@
+statLiquid
+==========
+
+Statistics for Liquidsoap
